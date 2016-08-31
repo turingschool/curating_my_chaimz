@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# curating_my_chaimz
+Consuming the my-chaimz API with Rails
+>>>>>>> db4e36e5305029235bf7d02c0359a3884cc9abc3
